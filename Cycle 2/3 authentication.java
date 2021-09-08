@@ -31,7 +31,6 @@ public static void main(String args[])
 	}
 }
 }
-
 class UserException extends Exception
 {
 void show()

@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-class Multi
+class MultiPrime
 {
 	public static void main(String args[])
 	{

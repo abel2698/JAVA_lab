@@ -77,7 +77,4 @@ class Consumer extends Thread
 			s.get();
 		}
 	}
-}
-
-
-			
+}		
